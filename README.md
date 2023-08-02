@@ -1,6 +1,5 @@
-- =====================================================
-- 👋 Hi, I’m NYDEREK                                               
+### 👋 Hi, I’m NYDEREK   🐱‍👤                                            
 - 👀 I’m interested in microcontrolers and electronics
-- 🌱 I’m currently learning programing stm32 in C in STM32cube ide
-- 📫 How to reach me plikistm32sn@gmail.com 
-- =====================================================
+- 🌱 I’m currently learning programing STM32 & ESP32
+- 📫 How to reach me S.NYDEREK@proton.me
+#### 🔴YouTube channel - https://www.youtube.com/channel/UCjbP49DZorebtq93TAmRs3g
